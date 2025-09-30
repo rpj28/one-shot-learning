@@ -16,7 +16,7 @@ Next *m* lines. *k* floating-point numbers, with each line giving data for a hou
 
 For example, if we had a house with *x*_1 bedrooms, *x*_2 bathrooms, *x*_3 square footage, and was built in the year *x*_4, then with weights *w*_k, *one_shot* estimates the price *y* in the following formula:
 
-    *y* = *w*_0 + *w*_1*x*_1 + *w*_2*x*_2 + *w*_3*x*_3 + *w*_4*x*_4
+*y* = *w*_0 + *w*_1*x*_1 + *w*_2*x*_2 + *w*_3*x*_3 + *w*_4*x*_4
 
 where *w*_0 is 1. 
 
