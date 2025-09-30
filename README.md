@@ -19,5 +19,3 @@ For example, if we had a house with *x*_1 bedrooms, *x*_2 bathrooms, *x*_3 squar
 *y* = *w*_0 + *w*_1*x*_1 + *w*_2*x*_2 + *w*_3*x*_3 + *w*_4*x*_4
 
 where *w*_0 is 1. 
-
-
